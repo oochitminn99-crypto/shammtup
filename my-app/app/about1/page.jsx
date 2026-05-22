@@ -58,16 +58,18 @@ export default async function Page() {
             </div>
 
             <div className="home2Div">
-                <div className="divContainer4">
-                    <div className="container">
-                        <div className="title">
-                            <h2 className="titleh">ဖွဲလတ်</h2>
-                        </div>
-                        <div className="card">
-                            <img src="/village_pig.jpg" alt="riceImage" className="img" />
-                        </div>
-                        <div className="base">
-                            <h6>အခမဲ့ လက်ဆောင်ပေးသည်</h6>
+                <div className="homeBox">
+                    <div className="divContainer4">
+                        <div className="container">
+                            <div className="title">
+                                <h2 className="titleh">ဖွဲလတ်</h2>
+                            </div>
+                            <div className="card">
+                                <img src="/village_pig.jpg" alt="riceImage" className="img" />
+                            </div>
+                            <div className="base">
+                                <h6>အခမဲ့ လက်ဆောင်ပေးသည်</h6>
+                            </div>
                         </div>
                     </div>
                 </div>
