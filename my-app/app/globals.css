@@ -26,7 +26,7 @@
   }
   .linkDiv {
     @apply 
-    xl:grid xl:grid-cols-5 xl:text-center xl:text-fuchsia-950 xl:font-serif xl:font-extrabold xl:text-[14px] xl:italic 
+    xl:grid xl:grid-cols-5 xl:text-center xl:text-fuchsia-950 xl:font-serif xl:font-extrabold xl:text-[14px] xl:italic  
     lg:grid lg:grid-cols-5 lg:text-center lg:text-fuchsia-950 lg:font-serif lg:font-extrabold lg:text-[13px] lg:italic 
     md:grid md:grid-cols-5 md:text-center md:text-fuchsia-950 md:font-serif md:font-extrabold md:text-[10px] md:italic 
    sm:grid sm:grid-cols-5 sm:gap-x-1 sm:text-center sm:text-fuchsia-950 sm:font-serif sm:font-extrabold sm:text-[9px] sm:italic sm:mt-1
@@ -91,5 +91,82 @@
   }
   .base {clip-path: inset(0.5px round 8px 0);
     @apply absolute top-[223px] left-[89px] h-[27px] w-[168px] bg-red-950 text-[14px] font-bold text-white flex justify-center items-center mr-1
+  }
+
+  .about2Div {background-image: linear-gradient(to right,blue,mediumblue,darkblue,navy,navy);
+    @apply /*h-[550px]*/ border-[1px]
+  }
+  .titleMemo {
+    @apply text-center text-white text-wrap pt-2 font-serif font-semibold italic p-1
+    xl:text-[18px] lg:text-[16px] md:text-[14px] sm:text-[11px]
+  }
+
+  .contactDiv {
+    background-image: linear-gradient(to right,blue,mediumblue,darkblue,navy,navy);
+    @apply border-[1px]
+  }
+
+  .blogDiv {background: url('/library1.jpg') no-repeat center center/cover;
+    @apply text-white  border-[1px] font-serif font-bold italic leading-7 /*bg-slate-900*/
+    grid grid-cols-12 xl:grid-rows-1 /*xl:h-[400px] */xl:text-[12px]
+    lg:grid-rows-2 /*lg:h-[800px] */lg:text-[12px]
+    md:grid-rows-3 /*md:h-[1120px]*/ md:text-[10px]
+    sm:grid-rows-3 /*sm:h-[1120px]*/ sm:text-[8px]
+  }
+  .blogList1 {
+    @apply 
+    xl:col-span-4 xl:mt-2 xl:ms-6
+    lg:col-span-6 lg:mt-2 lg:ms-6
+    md:col-span-12 md:mt-2 md:ms-5
+    sm:col-span-12 sm:mt-2 sm:ms-3
+  }
+  .blogList2 {
+    @apply 
+    xl:col-span-4 xl:mt-2 xl:ms-6
+    lg:col-span-6 lg:mt-2 lg:ms-6
+    md:col-span-12 md:mt-1 md:ms-5
+    sm:col-span-12 sm:mt-1 sm:ms-3
+  }
+   .blogList3 {
+    @apply 
+    xl:col-span-4 xl:mt-2 xl:ms-6
+    lg:col-span-6 lg:mt-1 lg:ms-6
+    md:col-span-12 md:mt-0 md:ms-5
+    sm:col-span-12 sm:mt-0 sm:ms-3
+  }
+  .blogBtn {
+    @apply bg-blue-800 px-4 py-0 rounded-md mt-2
+  }
+
+  .pageDiv1 {
+    @apply bg-slate-950 border-[1px] 
+  }
+  .pageContainer1 {
+    @apply px-4
+  }
+  .pageTitle1 {
+    @apply text-slate-100 font-serif italic text-center font-extrabold 
+    xl:text-[20px] lg:text-[18px] md:text-[14px] sm:text-[12px]
+    xl:pt-4 lg:pt-4 md:pt-2 sm:pt-1
+  }
+  .pageComposer1 {
+    @apply text-slate-100 font-serif italic text-right font-bold
+    xl:text-[18px] lg:text-[16px] md:text-[14px] sm:text-[12px]
+    sm:pt-2 
+  }
+  .pageBody1 {
+    @apply  text-justify text-white font-serif italic font-normal
+    xl:text-[14px] lg:text-[13px] md:text-[12px] sm:text-[10px]
+    xl:mt-4 lg:mt-4 md:mt-3 sm:mt-2
+    xl:leading-7 lg:leading-7 md:leading-6 sm:leading-5
+    xl:indent-14 lg:indent-14 md:indent-10 sm:indent-8
+  }
+
+  .homeDiv2 {background-image: linear-gradient(to right,blue,mediumblue,darkblue,navy,navy);
+    @apply h-[600px]
+  }
+  .titleContact {
+    @apply text-center text-yellow-400 font-serif font-bold italic
+    xl:pt-14 xl:text-3xl lg:pt-12 lg:text-2xl md:pt-10 md:text-xl sm:pt-8 sm:text-lg
   }
 }
