@@ -43,7 +43,7 @@
     @apply h-14 text-center text-wrap  rounded-b-lg border-[1px] border-white text-white font-sans font-bold italic
     xl:text-[18px] xl:pt-3
     lg:text-[16px] lg:pt-4
-    md:text-[13px] md:pt-1
+    md:text-[13px] md:pt-3
     sm:text-[11px] sm:pt-1 leading-5   
   }
    .homeDiv {
