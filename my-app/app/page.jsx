@@ -70,7 +70,7 @@ export default async function Page() {
                 <img src="/paddy2.jpg" alt="paddy" className="img" />
               </div>
               <div className="base">
-                <h2>တစ်တင်း = 22000</h2>
+                <h2>တစ်တင်း = 24000</h2>
               </div>
             </div>
           </div>
