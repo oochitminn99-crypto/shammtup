@@ -106,7 +106,7 @@
     @apply border-[1px]
   }
 
-  .blogDiv {background: url('/library1.jpg') no-repeat center center/cover;
+  .blogDiv {/*background: url('/library1.jpg') no-repeat center center/cover;*/
     @apply text-white  border-[1px] font-serif font-bold italic leading-7 /*bg-slate-900*/
     grid grid-cols-12 xl:grid-rows-1 /*xl:h-[400px] */xl:text-[12px]
     lg:grid-rows-2 /*lg:h-[800px] */lg:text-[12px]
@@ -139,7 +139,7 @@
   }
 
   .pageDiv1 {
-    @apply bg-slate-950 border-[1px] 
+    @apply border-[1px] 
   }
   .pageContainer1 {
     @apply px-4
