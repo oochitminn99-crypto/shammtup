@@ -10,7 +10,9 @@ export default function Page() {
                 <li><Link href="/blog/sar2"><button className="blogBtn">
                     ကျောင်းစာအုပ်ပြင်ပက အဲဖရက်နိုဘယ် အကြောင်း - ချမ်းမြေ့၀င်း
                 </button></Link></li>
-                <li><Link href="/blog/sar3"><button className="blogBtn">Sar3</button></Link></li>
+                <li><Link href="/blog/sar3"><button className="blogBtn">
+                    လောင်းကစား အရှုပ်တော်ပုံ - ဆင့်ညီ
+                </button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar4</button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar5</button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar6</button></Link></li>
