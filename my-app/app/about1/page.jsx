@@ -101,7 +101,7 @@ export default async function Page() {
                                 <h2 className="titleh"></h2>
                             </div>
                             <div className="card">
-                                <img src="/" alt="riceImage" className="img" />
+                                <img src="/duroc.jpg" alt="riceImage" className="img" />
                             </div>
                             <div className="base">
                                 <h2></h2>
@@ -119,7 +119,7 @@ export default async function Page() {
                                 <h2 className="titleh"></h2>
                             </div>
                             <div className="card">
-                                <img src="/" alt="riceImage" className="img" />
+                                <img src="/Landrace.jpg" alt="riceImage" className="img" />
                             </div>
                             <div className="base">
                                 <h2></h2>
@@ -137,7 +137,7 @@ export default async function Page() {
                                 <h2 className="titleh"></h2>
                             </div>
                             <div className="card">
-                                <img src="/" alt="riceImage" className="img" />
+                                <img src="/yorkshire.jpg" alt="riceImage" className="img" />
                             </div>
                             <div className="base">
                                 <h2></h2>
