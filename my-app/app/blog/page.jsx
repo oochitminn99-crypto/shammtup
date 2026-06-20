@@ -13,7 +13,9 @@ export default function Page() {
                 <li><Link href="/blog/sar3"><button className="blogBtn">
                     လောင်းကစား အရှုပ်တော်ပုံ - ဆင့်ညီ
                 </button></Link></li>
-                <li><Link href="/blog/sar2"><button className="blogBtn">Sar4</button></Link></li>
+                <li><Link href="/blog/sar4"><button className="blogBtn">
+                    ပုဆိုးကိုလှန်၍ အောင်ပွဲခံကြလေသောအခါ - မောင်သာချို
+                </button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar5</button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar6</button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar7</button></Link></li>
