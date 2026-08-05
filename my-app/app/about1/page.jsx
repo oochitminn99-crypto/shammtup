@@ -14,7 +14,7 @@ export default async function Page() {
                                 <img src="/kyitkalay.jpg" alt="riceImage" className="img" />
                             </div>
                             <div className="base">
-                                <h2>တစ်အိတ် = 38000</h2>
+                                <h2>တစ်အိတ် = 40000</h2>
                             </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ export default async function Page() {
                                 <img src="/sow.jpg" alt="riceImage" className="img" />
                             </div>
                             <div className="base">
-                                <h2>တစ်အိတ် = 20000</h2>
+                                <h2>တစ်အိတ် = 25000</h2>
                             </div>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ export default async function Page() {
                                 <img src="/village_pig.jpg" alt="riceImage" className="img" />
                             </div>
                             <div className="base">
-                                <h6>အခမဲ့ လက်ဆောင်ပေးသည်</h6>
+                                <h6>တစ်အိတ် = 2000</h6>
                             </div>
                         </div>
                     </div>
