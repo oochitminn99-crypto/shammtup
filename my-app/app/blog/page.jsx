@@ -16,7 +16,9 @@ export default function Page() {
                 <li><Link href="/blog/sar4"><button className="blogBtn">
                     ပုဆိုးကိုလှန်၍ အောင်ပွဲခံကြလေသောအခါ - မောင်သာချို
                 </button></Link></li>
-                <li><Link href="/blog/sar2"><button className="blogBtn">Sar5</button></Link></li>
+                <li><Link href="/blog/sar5"><button className="blogBtn">
+                    မစဥ်းစားခြင်း ဖော်မြူလာ - ချမ်းမြေ့၀င်း
+                </button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar6</button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar7</button></Link></li>
                 <li><Link href="/blog/sar2"><button className="blogBtn">Sar8</button></Link></li>
