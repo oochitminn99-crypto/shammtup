@@ -16,7 +16,7 @@ export default async function Page() {
                 <img src="/aypdsan2.jpg" alt="riceImage" className="img" />
               </div>
               <div className="base">
-                <h2>တစ်အိတ် = 115000</h2>
+                <h2>တစ်အိတ် = 120000</h2>
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@ export default async function Page() {
                 <img src="/sinthukasan2.jpg" alt="rice" className="img" />
               </div>
               <div className="base">
-                <h2>တစ်အိတ် = 90000</h2>
+                <h2>တစ်အိတ် = 95000</h2>
               </div>
             </div>
           </div>
@@ -52,7 +52,7 @@ export default async function Page() {
                 <img src="/paddy1.jpg" alt="paddy" className="img" />
               </div>
               <div className="base">
-                <h2>တစ်တင်း = 27000</h2>
+                <h2>တစ်တင်း = 28000</h2>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@ export default async function Page() {
                 <img src="/hmbsan.jpg" alt="riceimg" className="img" />
               </div>
               <div className="base">
-                <h2>တစ်အိတ် = 90000</h2>
+                <h2>တစ်အိတ် = 95000</h2>
               </div>
             </div>
           </div>
@@ -106,7 +106,7 @@ export default async function Page() {
                 <img src="/kautkyee.jpg" alt="riceimg" className="img" />
               </div>
               <div className="base">
-                <h2> တစ်အိတ် = 80000</h2>
+                <h2> တစ်အိတ် = 85000</h2>
               </div>
             </div>
           </div>
