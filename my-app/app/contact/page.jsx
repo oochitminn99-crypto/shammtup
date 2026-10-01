@@ -26,7 +26,7 @@ export default function ContactPage() {
                 တည်နေရာ
             </h1>
             <p className="titleMemo">
-                ရှမ်းတပ်ပါနီချောင်းကူးတံတား အရှေ့ဘက်ထိပ် ရှမ်းတပ်ကုန်း ကျေးရွာ
+                ရှမ်းတပ်ပါနီ(ပနီ)ချောင်းကူးတံတား အရှေ့ဘက်ထိပ် ရှမ်းတပ်ကုန်း ကျေးရွာ
             </p>
 
             <div className="homeBase1">

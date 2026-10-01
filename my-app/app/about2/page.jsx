@@ -17,7 +17,7 @@ export default function Page() {
                 ကို၀င်းနိုင် "ရေနံ့သာ"
             </h1>
             <h1 className="titleMemo">
-                ကိုဆန်း၀င်း "ငါးပုန်းကုန်း"
+                ကိုဆန်း၀င်း "ငါးပုံကုန်း"
             </h1>
             <h1 className="titleMemo">
                 ကိုဌေး၀င်း "သင်းသလယ်"
