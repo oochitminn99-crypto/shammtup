@@ -124,7 +124,7 @@ export default async function Page() {
                 <img src="/hmb.jpg" alt="" className="img" />
               </div>
               <div className="base">
-                <h2> တစ်တင်း = 20000</h2>
+                <h2> တစ်တင်း = 24000</h2>
               </div>
             </div>
           </div>
@@ -142,7 +142,7 @@ export default async function Page() {
                 <img src="/kautkyee2.jpg" alt="" className="img" />
               </div>
               <div className="base">
-                <h2>တစ်တင်း = 19000</h2>
+                <h2>တစ်တင်း = 21000</h2>
               </div>
             </div>
           </div>
