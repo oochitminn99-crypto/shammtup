@@ -88,7 +88,7 @@ export default async function Page() {
                 <img src="/hmbsan.jpg" alt="riceimg" className="img" />
               </div>
               <div className="base">
-                <h2>တစ်အိတ် = 95000</h2>
+                <h2>တစ်အိတ် = 100000</h2>
               </div>
             </div>
           </div>
